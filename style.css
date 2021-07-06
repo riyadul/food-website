@@ -1,0 +1,97 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+	color:#4a4a4a;
+}
+.span1{
+    color: #215D63;
+}
+#firsthead1{
+    font-size: 50px;
+}
+.call {
+    padding: 5px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #215D63, blue);
+    color: white;
+    border-radius: 5px;
+}
+.button1{
+    background-image:linear-gradient(to right,#134e5e, #71b280);
+    color:white;
+    border-radius: 5px;
+    margin-left:320px;
+    padding: 7px;
+}
+.firstsection{
+    display: flex;
+    width: 95%;
+    margin-left:50px;
+    text-align: justify;
+}
+#img1{
+    height: 400px;
+}
+#secondsection{
+    display: flex;
+    width: 95%;
+    margin-left: 50px;
+    background-color: #FFFFFF;
+}
+#chefimage{
+    height:500px;
+}
+#medetails{
+    margin-left: 100px;
+    margin-right:50px;
+	   margin-top: 107px;
+}
+#me{
+	font-size:30px;
+}
+
+#contractbutton{
+    background-image: linear-gradient(to right, #215D63, blue);
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+#thirdsection{
+    margin-left: 50px;
+}
+#recipe{
+    text-align: center;
+}
+#fourthsection{
+    display: flex;
+    margin-left: 50px;
+    width:95%;
+}
+#fourthsection div{
+    margin:17px;
+    padding: 10px;
+    text-align: justify;
+    box-shadow:5px 10px 30px grey;
+    border-radius: 10px;
+}
+.foodimg{
+    height: 200px;
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#recipe p {
+    width: 375px;
+    text-align: center;
+    margin: 0px 34%;
+}
+
+.footer-part{
+    background-color: #0B0E17;
+    text-align: center;
+    color:white;
+    padding: 50px 0;
+}
+.footer-title{
+    color:#6BAB7E;
+}
