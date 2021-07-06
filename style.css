@@ -76,12 +76,13 @@ body{
     box-shadow:5px 10px 30px grey;
     border-radius: 10px;
 }
-.foodimg{
+.foodimg {
     height: 200px;
     border-radius: 7px;
     margin: 0 auto;
     margin-left: auto;
     margin-right: auto;
+    width: 263px;
 }
 #recipe p {
     width: 375px;
